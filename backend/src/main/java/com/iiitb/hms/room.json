@@ -1,0 +1,52 @@
+{
+  "room" : {
+    "cluster" : "hostel_management_system",
+    "ui" : false,
+    "api" : true,
+    "display_name" : "Room",
+    "menu_content" : "setup",
+    "fields" : {
+      "id": {
+        "index": true,
+        "name": "id",
+        "required": true,
+        "type": "String"
+      },
+      "room_number": {
+        "name": "room_number",
+        "type": "String",
+        "required": true
+      },
+      "block_id": {
+        "name": "block_id",
+        "type": "String",
+        "required":true,
+        "foreign": {
+          "resource": "block"
+        }
+      },
+      "floor_id": {
+        "name": "floor_id",
+        "type": "String",
+        "required": true,
+        "foreign": {
+          "resource": "floor"
+        }
+      },
+      "room_type_id": {
+        "name": "room_type_id",
+        "type": "String",
+        "required": true,
+        "foreign": {
+          "resource": "room_type"
+        }
+      },
+      "occupied": {
+        "name": "occupied",
+        "type": "Boolean",
+        "required": false,
+        "default": false
+      }
+    }
+  }
+}

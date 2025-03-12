@@ -1,0 +1,1240 @@
+/* addroomdata */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1485 */
+
+position: absolute;
+width: 1484px;
+height: 57px;
+left: 375px;
+top: 860px;
+
+background: #EFF3FA;
+border-radius: 4px;
+
+
+/* 1 */
+
+position: absolute;
+width: 27px;
+height: 34px;
+left: 411px;
+top: 941px;
+
+font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 19px;
+
+color: #8A8A8A;
+
+
+
+/* 1 */
+
+position: absolute;
+width: 27px;
+height: 34px;
+left: 576px;
+top: 941px;
+
+font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 19px;
+
+color: #8A8A8A;
+
+
+
+/* 123 */
+
+position: absolute;
+width: 27px;
+height: 34px;
+left: 786px;
+top: 941px;
+
+font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 19px;
+
+color: #8A8A8A;
+
+
+
+/* 4th Block */
+
+position: absolute;
+width: 74px;
+height: 34px;
+left: 1137px;
+top: 941px;
+
+font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 19px;
+
+color: #8A8A8A;
+
+
+
+/* S.No. */
+
+position: absolute;
+width: 44px;
+height: 26px;
+left: 411px;
+top: 874px;
+
+font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+
+color: #282828;
+
+
+
+/* Floor */
+
+position: absolute;
+width: 45px;
+height: 26px;
+left: 576px;
+top: 874px;
+
+font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+
+color: #282828;
+
+
+
+/* Room Number */
+
+position: absolute;
+width: 125px;
+height: 26px;
+left: 786px;
+top: 874px;
+
+font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+
+color: #282828;
+
+
+
+/* Block */
+
+position: absolute;
+width: 57px;
+height: 26px;
+left: 1137px;
+top: 874px;
+
+font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+
+color: #282828;
+
+
+
+/* Room Type */
+
+position: absolute;
+width: 125px;
+height: 26px;
+left: 1394px;
+top: 874px;
+
+font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+
+color: #282828;
+
+
+
+/* Add Room Data */
+
+position: absolute;
+width: 219px;
+height: 35px;
+left: 375px;
+top: 36px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+
+color: #282828;
+
+
+
+/* Line 15 */
+
+position: absolute;
+width: 1487px;
+height: 0px;
+left: 367px;
+top: 103px;
+
+border: 1px solid rgba(196, 196, 196, 0.5);
+box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.25);
+
+
+/* Line 16 */
+
+position: absolute;
+width: 1484px;
+height: 0px;
+left: 375px;
+top: 992px;
+
+border: 1px solid #C4C4C4;
+
+
+/* Side Bar */
+
+position: absolute;
+width: 342.44px;
+height: 1086px;
+left: -6px;
+top: -5px;
+
+
+
+/* uil:calender */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 312.44px;
+top: 19px;
+
+
+
+/* uil:calender */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 312.44px;
+top: -5px;
+
+
+
+/* Rectangle 1477 */
+
+position: absolute;
+width: 318.44px;
+height: 1080px;
+left: -6px;
+top: -5px;
+
+background: #025492;
+
+
+/* Rectangle 1479 */
+
+position: absolute;
+width: 318px;
+height: 90px;
+left: -6px;
+top: 991px;
+
+background: #070241;
+
+
+/* Line 9 */
+
+position: absolute;
+width: 318.25px;
+height: 0px;
+left: -6px;
+top: 192.23px;
+
+border: 0.5px solid #BDBDBD;
+
+
+/* logo */
+
+position: absolute;
+width: 223px;
+height: 154.8px;
+left: 50px;
+top: 36.2px;
+
+
+
+/* logo 1 */
+
+position: absolute;
+width: 63.18px;
+height: 64.19px;
+left: 130px;
+top: 44.37px;
+
+background: url(logo.png);
+
+
+/* International Institute of Information Technology Bangalore */
+
+position: absolute;
+width: 223px;
+height: 70px;
+left: 50px;
+top: 121px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Ellipse 21 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 76.88px;
+height: 78.11px;
+left: 121px;
+top: 36.2px;
+
+border: 2px solid #FFFFFF;
+
+
+/* Application Admin */
+
+position: absolute;
+width: 185px;
+height: 20px;
+left: 9px;
+top: 1018px;
+
+font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 25px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* application@iiitb.in */
+
+position: absolute;
+width: 128px;
+height: 14px;
+left: 13px;
+top: 1041px;
+
+font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* solar:logout-2-outline */
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 275px;
+top: 1030px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 34.38%;
+right: 5.21%;
+top: 5.21%;
+bottom: 5.21%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.21%;
+right: 34.37%;
+top: 34.37%;
+bottom: 34.37%;
+
+background: #FFFFFF;
+
+
+/* Search */
+
+position: absolute;
+width: 197px;
+height: 20px;
+left: 1477px;
+top: 790px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+color: #8A8A8A;
+
+
+
+/* Rectangle 1495 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 345px;
+height: 38px;
+left: 1463px;
+top: 780px;
+
+border: 1px solid #C4C4C4;
+border-radius: 4px;
+
+
+/* Rectangle 1481 */
+
+position: absolute;
+width: 41px;
+height: 38px;
+left: 1767px;
+top: 780px;
+
+background: #509CDB;
+border-radius: 0px 4px 4px 0px;
+
+
+/* Rectangle 1496 */
+
+position: absolute;
+width: 41px;
+height: 38px;
+left: 1818px;
+top: 780px;
+
+background: #509CDB;
+border-radius: 4px;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.66%;
+right: 6.35%;
+top: 73.15%;
+bottom: 25.09%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.3%;
+right: 2.62%;
+top: 73.15%;
+bottom: 25.19%;
+
+background: #FFFFFF;
+transform: matrix(-1, 0.02, 0.02, 1, 0, 0);
+
+
+/* Rectangle 1498 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 600px;
+height: 54px;
+left: 1208px;
+top: 340px;
+
+border: 1px solid #C4C4C4;
+filter: drop-shadow(0px 1px 4px rgba(0, 0, 0, 0.25));
+border-radius: 4px;
+
+
+/* Room Type* */
+
+position: absolute;
+width: 262px;
+height: 25px;
+left: 1222px;
+top: 354px;
+
+font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+
+color: #8A8A8A;
+
+
+
+/* Rectangle 1480 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 600px;
+height: 54px;
+left: 437px;
+top: 247px;
+
+border: 1px solid #C4C4C4;
+filter: drop-shadow(0px 1px 4px rgba(0, 0, 0, 0.25));
+border-radius: 4px;
+
+
+/* Rectangle 1504 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 600px;
+height: 54px;
+left: 1208px;
+top: 247px;
+
+border: 1px solid #C4C4C4;
+filter: drop-shadow(0px 1px 4px rgba(0, 0, 0, 0.25));
+border-radius: 4px;
+
+
+/* Floor* */
+
+position: absolute;
+width: 221px;
+height: 24px;
+left: 451px;
+top: 261px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+
+color: #8A8A8A;
+
+
+
+/* Room Number* */
+
+position: absolute;
+width: 197px;
+height: 24px;
+left: 1222px;
+top: 261px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+
+color: #8A8A8A;
+
+
+
+/* Rectangle 1503 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 600px;
+height: 54px;
+left: 437px;
+top: 340px;
+
+border: 1px solid #C4C4C4;
+filter: drop-shadow(0px 1px 4px rgba(0, 0, 0, 0.25));
+border-radius: 4px;
+
+
+/* Block* */
+
+position: absolute;
+width: 247px;
+height: 24px;
+left: 451px;
+top: 354px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+
+color: #8A8A8A;
+
+
+
+/* Rectangle 1482 */
+
+position: absolute;
+width: 143px;
+height: 53px;
+left: 1665px;
+top: 457px;
+
+background: #509CDB;
+box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+border-radius: 4px;
+
+
+/* Submit */
+
+position: absolute;
+width: 87px;
+height: 26px;
+left: 1693px;
+top: 468px;
+
+font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 1635 */
+
+position: absolute;
+width: 215px;
+height: 40px;
+left: 76px;
+top: 636px;
+
+background: #509CDB;
+box-shadow: 0px 0.5px 4px rgba(0, 0, 0, 0.25);
+border-radius: 8px;
+
+
+/* Rectangle 1636 */
+
+position: absolute;
+width: 241px;
+height: 40px;
+left: 60px;
+top: 523px;
+
+background: rgba(80, 156, 219, 0.5);
+box-shadow: 0px 0.5px 4px rgba(0, 0, 0, 0.25);
+border-radius: 8px;
+
+
+/* rooms */
+
+position: absolute;
+width: 106px;
+height: 24px;
+left: 25px;
+top: 387px;
+
+
+
+/* material-symbols:bed-outline-rounded */
+
+position: absolute;
+left: 0%;
+right: 77.36%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+visibility: hidden;
+left: 8.33%;
+right: 8.33%;
+top: 20.83%;
+bottom: 20.83%;
+
+background: #FFFFFF;
+
+
+/* Rooms */
+
+position: absolute;
+left: 39.62%;
+right: -16.04%;
+top: 4.17%;
+bottom: 4.17%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* hostel */
+
+position: absolute;
+width: 109px;
+height: 24px;
+left: 26px;
+top: 315px;
+
+
+
+/* Hostels */
+
+position: absolute;
+left: 37.61%;
+right: -77.06%;
+top: 4.17%;
+bottom: 4.17%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* ri:building-2-line */
+
+position: absolute;
+left: 0%;
+right: 77.98%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 4.17%;
+right: 4.17%;
+top: 5.06%;
+bottom: 12.5%;
+
+background: #FFFFFF;
+
+
+/* bi:boxes */
+
+position: absolute;
+left: 1.41%;
+right: 97.45%;
+top: 42.59%;
+bottom: 55.37%;
+
+
+
+/* furniture */
+
+position: absolute;
+width: 127px;
+height: 24px;
+left: 26px;
+top: 531px;
+
+
+
+/* Furniture */
+
+position: absolute;
+left: 32.28%;
+right: -91.34%;
+top: 4.17%;
+bottom: 4.17%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* mi:users */
+
+position: absolute;
+left: 0%;
+right: 81.1%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* map:furniture-store */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 2.02%;
+right: 1.98%;
+top: 22%;
+bottom: 10%;
+
+background: #FFFFFF;
+
+
+/* occupancy */
+
+position: absolute;
+width: 145px;
+height: 24px;
+left: 26px;
+top: 244px;
+
+
+
+/* Occupancy */
+
+position: absolute;
+left: 28.28%;
+right: 2.07%;
+top: 0%;
+bottom: 8.33%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* ph:circles-three-plus-fill */
+
+position: absolute;
+left: 0%;
+right: 83.45%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #FFFFFF;
+
+
+/* Check out */
+
+position: absolute;
+left: 3.49%;
+right: 91.61%;
+top: 42.59%;
+bottom: 55.37%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Add Resident data */
+
+position: absolute;
+left: 4.64%;
+right: 86.51%;
+top: 54.63%;
+bottom: 43.33%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Present Occupancy */
+
+position: absolute;
+left: 4.64%;
+right: 86.04%;
+top: 71.67%;
+bottom: 26.3%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Add Room data */
+
+position: absolute;
+left: 4.64%;
+right: 87.86%;
+top: 59.72%;
+bottom: 38.24%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Vacated list */
+
+position: absolute;
+left: 4.64%;
+right: 89.84%;
+top: 76.76%;
+bottom: 21.2%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Reports */
+
+position: absolute;
+left: 3.49%;
+right: 92.76%;
+top: 66.57%;
+bottom: 31.39%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* mdi:assignment-ind-outline */
+
+position: absolute;
+left: 1.41%;
+right: 97.34%;
+top: 66.48%;
+bottom: 31.3%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 4.17%;
+bottom: 12.5%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 14.53%;
+right: 84.74%;
+top: 50.09%;
+bottom: 49.26%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 13.75%;
+right: 85.52%;
+top: 67.41%;
+bottom: 31.94%;
+
+background: #FFFFFF;
+
+
+/* hugeicons:calendar-check-in-01 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 65px;
+top: 423px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 1.46%;
+right: 97.6%;
+top: 36.2%;
+bottom: 62.13%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 1.46%;
+right: 97.6%;
+top: 36.2%;
+bottom: 62.13%;
+
+border: 2px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 1.48%;
+right: 97.63%;
+top: 36.7%;
+bottom: 62.3%;
+
+border: 2px solid #FFFFFF;
+
+
+/* hugeicons:calendar-check-out-01 */
+
+position: absolute;
+width: 22px;
+height: 22px;
+left: 26px;
+top: 459px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.42%;
+right: 10.42%;
+top: 8.33%;
+bottom: 8.33%;
+
+border: 2px solid #FFFFFF;
+
+
+/* Line 19 */
+
+position: absolute;
+width: 99px;
+height: 0px;
+left: 38px;
+top: 557px;
+
+border: 1.5px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 20 */
+
+position: absolute;
+width: 99px;
+height: 0px;
+left: 38px;
+top: 742px;
+
+border: 1.5px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 21 */
+
+position: absolute;
+width: 25px;
+height: 0px;
+left: 39px;
+top: 601px;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Line 22 */
+
+position: absolute;
+width: 25px;
+height: 0px;
+left: 39px;
+top: 786px;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Line 23 */
+
+position: absolute;
+width: 25px;
+height: 0px;
+left: 38px;
+top: 656px;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Line 24 */
+
+position: absolute;
+width: 25px;
+height: 0px;
+left: 38px;
+top: 841px;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Rectangle 1558 */
+
+position: absolute;
+width: 222px;
+height: 58px;
+left: 1586px;
+top: 146px;
+
+background: #025492;
+box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
+border-radius: 6px;
+
+
+/* Bulk Upload */
+
+position: absolute;
+width: 156px;
+height: 31px;
+left: 1636px;
+top: 160px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+
+
+/* material-symbols:upload */
+
+position: absolute;
+width: 28px;
+height: 28px;
+left: 1598px;
+top: 161px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 16.67%;
+bottom: 16.67%;
+
+background: #FFFFFF;

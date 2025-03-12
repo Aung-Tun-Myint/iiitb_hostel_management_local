@@ -1,0 +1,128 @@
+{
+  "user" : {
+    "cluster" :  "hostel_management_system",
+    "ui" : false,
+    "api" : true,
+    "display_name" : "User Details",
+    "menu_content" : "setup",
+    "blocks": {
+      "course" : {
+        "title": "User Details",
+        "order": 1
+      }
+    },
+    "fields" : {
+      "id": {
+        "index": true,
+        "name": "id",
+        "length": 128,
+        "required": true,
+        "type": "String"
+      },
+      "name": {
+        "name": "name",
+        "length": 128,
+        "type": "String",
+        "required": true
+      },
+      "batch_id": {
+        "name": "name",
+        "length": 128,
+        "type": "String",
+        "foreign": {
+          "resource": "batch"
+        }
+      },
+      "program_id": {
+        "name": "program_id",
+        "type": "String",
+        "required": true,
+        "foreign": {
+          "resource": "program"
+        }
+      },
+      "branch_id": {
+        "name": "branch_id",
+        "type": "String",
+        "required": true,
+        "foreign": {
+          "resource": "branch"
+        }
+      },
+      "specialization": {
+        "name": "specialization",
+        "type": "String",
+        "required": false
+      },
+      "batch_name": {
+        "name": "name",
+        "length": 128,
+        "type": "String",
+        "foreign_derived": {
+          "parent_field": "batch_id",
+          "foreign_field": "batch_name"
+        }
+      },
+      "email_id": {
+        "name": "email_id",
+        "length": 50,
+        "type": "String",
+        "required": true
+      },
+      "roll_number": {
+        "name": "roll_number",
+        "type": "String",
+        "length": 16,
+        "required": true
+      },
+      "card_number": {
+        "name" : "card_number",
+        "type" : "String",
+        "length": 16,
+        "required": false
+      },
+      "role":{
+        "name" : "role",
+        "type" : "String",
+        "length": 16,
+        "required": true
+      },
+      "joining_date": {
+        "name": "joining_date",
+        "type": "String",
+        "required" : true
+      },
+      "dob": {
+        "name": "dob",
+        "type": "String",
+        "required": false
+      },
+      "mobile_number": {
+        "name": "mobile_number",
+        "type" : "String",
+        "length": 10,
+        "required": true
+      },
+      "expiry_date": {
+        "name": "expiry_date",
+        "type": "String",
+        "required": true
+      },
+      "image_url": {
+        "name": "image_url",
+        "type": "String"
+      },
+      "father_name": {
+        "name": "father_name",
+        "type": "String",
+        "required": true
+      },
+      "status": {
+        "name": "status",
+        "type": "String",
+        "default" : "Active",
+        "required": true
+      }
+    }
+  }
+}

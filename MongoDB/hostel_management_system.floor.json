@@ -1,0 +1,154 @@
+[{
+  "_id": "a12b3c4d-e56f-7890-1234-567890abcdef",
+  "id": "a12b3c4d-e56f-7890-1234-567890abcdef",
+  "block_id": "555d464e-f36a-4336-8cf1-71850582a2e9",
+  "name": "Ground Floor",
+  "room_count": 12
+},
+{
+  "_id": "b23c4d5e-f67g-8901-2345-67890abcdef12",
+  "id": "b23c4d5e-f67g-8901-2345-67890abcdef12",
+  "block_id": "555d464e-f36a-4336-8cf1-71850582a2e9",
+  "name": "First Floor",
+  "room_count": 15
+},
+{
+  "_id": "c34d5e6f-g78h-9012-3456-7890abcdef123",
+  "id": "c34d5e6f-g78h-9012-3456-7890abcdef123",
+  "block_id": "555d464e-f36a-4336-8cf1-71850582a2e9",
+  "name": "Second Floor",
+  "room_count": 15
+},
+{
+  "_id": "d45e6f7g-h89i-0123-4567-890abcdef1234",
+  "id": "d45e6f7g-h89i-0123-4567-890abcdef1234",
+  "block_id": "555d464e-f36a-4336-8cf1-71850582a2e9",
+  "name": "Third Floor",
+  "room_count": 10
+},
+{
+  "_id": "e56f7g8h-i90j-1234-5678-90abcdef12345",
+  "id": "e56f7g8h-i90j-1234-5678-90abcdef12345",
+  "block_id": "67ae1f3b-819c-4418-a5ff-243356aed4b2",
+  "name": "Ground Floor",
+  "room_count": 14
+},
+{
+  "_id": "f67g8h9i-j01k-2345-6789-0abcdef123456",
+  "id": "f67g8h9i-j01k-2345-6789-0abcdef123456",
+  "block_id": "67ae1f3b-819c-4418-a5ff-243356aed4b2",
+  "name": "First Floor",
+  "room_count": 16
+},
+{
+  "_id": "g78h9i0j-k12l-3456-7890-abcdef1234567",
+  "id": "g78h9i0j-k12l-3456-7890-abcdef1234567",
+  "block_id": "67ae1f3b-819c-4418-a5ff-243356aed4b2",
+  "name": "Second Floor",
+  "room_count": 16
+},
+{
+  "_id": "h89i0j1k-l23m-4567-8901-bcdef12345678",
+  "id": "h89i0j1k-l23m-4567-8901-bcdef12345678",
+  "block_id": "67ae1f3b-819c-4418-a5ff-243356aed4b2",
+  "name": "Third Floor",
+  "room_count": 12
+},
+{
+  "_id": "i90j1k2l-m34n-5678-9012-cdef123456789",
+  "id": "i90j1k2l-m34n-5678-9012-cdef123456789",
+  "block_id": "7c54df89-6d21-4af1-b3d7-980df0aecb03",
+  "name": "Ground Floor",
+  "room_count": 10
+},
+{
+  "_id": "j01k2l3m-n45o-6789-0123-def1234567890",
+  "id": "j01k2l3m-n45o-6789-0123-def1234567890",
+  "block_id": "7c54df89-6d21-4af1-b3d7-980df0aecb03",
+  "name": "First Floor",
+  "room_count": 12
+},
+{
+  "_id": "k12l3m4n-o56p-7890-1234-ef12345678901",
+  "id": "k12l3m4n-o56p-7890-1234-ef12345678901",
+  "block_id": "7c54df89-6d21-4af1-b3d7-980df0aecb03",
+  "name": "Second Floor",
+  "room_count": 12
+},
+{
+  "_id": "l23m4n5o-p67q-8901-2345-f123456789012",
+  "id": "l23m4n5o-p67q-8901-2345-f123456789012",
+  "block_id": "89ebc12a-5142-45b7-9e67-3fa267d82e14",
+  "name": "Ground Floor",
+  "room_count": 8
+},
+{
+  "_id": "m34n5o6p-q78r-9012-3456-123456789012a",
+  "id": "m34n5o6p-q78r-9012-3456-123456789012a",
+  "block_id": "89ebc12a-5142-45b7-9e67-3fa267d82e14",
+  "name": "First Floor",
+  "room_count": 10
+},
+{
+  "_id": "n45o6p7q-r89s-0123-4567-23456789012ab",
+  "id": "n45o6p7q-r89s-0123-4567-23456789012ab",
+  "block_id": "89ebc12a-5142-45b7-9e67-3fa267d82e14",
+  "name": "Second Floor",
+  "room_count": 10
+},
+{
+  "_id": "o56p7q8r-s90t-1234-5678-3456789012abc",
+  "id": "o56p7q8r-s90t-1234-5678-3456789012abc",
+  "block_id": "89ebc12a-5142-45b7-9e67-3fa267d82e14",
+  "name": "Third Floor",
+  "room_count": 10
+},
+{
+  "_id": "p67q8r9s-t01u-2345-6789-456789012abcd",
+  "id": "p67q8r9s-t01u-2345-6789-456789012abcd",
+  "block_id": "89ebc12a-5142-45b7-9e67-3fa267d82e14",
+  "name": "Fourth Floor",
+  "room_count": 8
+},
+{
+  "_id": "q78r9s0t-u12v-3456-7890-56789012abcde",
+  "id": "q78r9s0t-u12v-3456-7890-56789012abcde",
+  "block_id": "92f3e721-ab38-4095-8c4d-4e31baf270c5",
+  "name": "Ground Floor",
+  "room_count": 14
+},
+{
+  "_id": "r89s0t1u-v23w-4567-8901-6789012abcdef",
+  "id": "r89s0t1u-v23w-4567-8901-6789012abcdef",
+  "block_id": "92f3e721-ab38-4095-8c4d-4e31baf270c5",
+  "name": "First Floor",
+  "room_count": 16
+},
+{
+  "_id": "s90t1u2v-w34x-5678-9012-789012abcdefg",
+  "id": "s90t1u2v-w34x-5678-9012-789012abcdefg",
+  "block_id": "92f3e721-ab38-4095-8c4d-4e31baf270c5",
+  "name": "Second Floor",
+  "room_count": 16
+},
+{
+  "_id": "t01u2v3w-x45y-6789-0123-89012abcdefgh",
+  "id": "t01u2v3w-x45y-6789-0123-89012abcdefgh",
+  "block_id": "92f3e721-ab38-4095-8c4d-4e31baf270c5",
+  "name": "Third Floor",
+  "room_count": 16
+},
+{
+  "_id": "u12v3w4x-y56z-7890-1234-9012abcdefghi",
+  "id": "u12v3w4x-y56z-7890-1234-9012abcdefghi",
+  "block_id": "92f3e721-ab38-4095-8c4d-4e31baf270c5",
+  "name": "Fourth Floor",
+  "room_count": 14
+},
+{
+  "_id": "v23w4x5y-z67a-8901-2345-012abcdefghij",
+  "id": "v23w4x5y-z67a-8901-2345-012abcdefghij",
+  "block_id": "92f3e721-ab38-4095-8c4d-4e31baf270c5",
+  "name": "Fifth Floor",
+  "room_count": 12
+}]

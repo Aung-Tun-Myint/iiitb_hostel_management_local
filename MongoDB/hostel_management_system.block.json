@@ -1,0 +1,35 @@
+[{
+  "_id": "555d464e-f36a-4336-8cf1-71850582a2e9",
+  "id": "555d464e-f36a-4336-8cf1-71850582a2e9",
+  "name": "Block A",
+  "floor_count": 4,
+  "description": "Male hostel block - North campus"
+},
+{
+  "_id": "67ae1f3b-819c-4418-a5ff-243356aed4b2",
+  "id": "67ae1f3b-819c-4418-a5ff-243356aed4b2",
+  "name": "Block B",
+  "floor_count": 4,
+  "description": "Female hostel block - North campus"
+},
+{
+  "_id": "7c54df89-6d21-4af1-b3d7-980df0aecb03",
+  "id": "7c54df89-6d21-4af1-b3d7-980df0aecb03",
+  "name": "Block C",
+  "floor_count": 3,
+  "description": "International students block - South campus"
+},
+{
+  "_id": "89ebc12a-5142-45b7-9e67-3fa267d82e14",
+  "id": "89ebc12a-5142-45b7-9e67-3fa267d82e14",
+  "name": "Block D",
+  "floor_count": 5,
+  "description": "Research scholars block - East campus"
+},
+{
+  "_id": "92f3e721-ab38-4095-8c4d-4e31baf270c5",
+  "id": "92f3e721-ab38-4095-8c4d-4e31baf270c5",
+  "name": "Block E",
+  "floor_count": 6,
+  "description": "Postgraduate students block - West campus"
+}]

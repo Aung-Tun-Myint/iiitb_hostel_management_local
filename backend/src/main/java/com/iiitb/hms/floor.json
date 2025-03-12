@@ -1,0 +1,35 @@
+{
+  "floor": {
+    "cluster": "hostel_management_system",
+    "ui": false,
+    "api": true,
+    "display_name": "Floor",
+    "menu_content": "setup",
+    "fields": {
+      "id": {
+        "index": true,
+        "name": "id",
+        "required": true,
+        "type": "String"
+      },
+      "block_id": {
+        "name": "block_id",
+        "type": "String",
+        "required": true,
+        "foreign": {
+          "resource": "block"
+        }
+      },
+      "number": {
+        "name": "number",
+        "type": "Integer",
+        "required": true
+      },
+      "room_count": {
+        "name": "room_count",
+        "type": "Integer",
+        "required": true
+      }
+    }
+  }
+}

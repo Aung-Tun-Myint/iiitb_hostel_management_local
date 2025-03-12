@@ -1,0 +1,49 @@
+[{
+  "_id": "9a8b7c6d-5e4f-3a2b-1c0d-ef1a2b3c4d5e",
+  "id": "9a8b7c6d-5e4f-3a2b-1c0d-ef1a2b3c4d5e",
+  "name": "Single Room",
+  "capacity": 1,
+  "description": "Standard single occupancy room with attached bathroom"
+},
+{
+  "_id": "8b7c6d5e-4f3e-2d1c-0b9a-f1e2d3c4b5a6",
+  "id": "8b7c6d5e-4f3e-2d1c-0b9a-f1e2d3c4b5a6",
+  "name": "Double Room",
+  "capacity": 2,
+  "description": "Standard double occupancy room with attached bathroom"
+},
+{
+  "_id": "7c6d5e4f-3e2d-1c0b-9a8b-e2d3c4b5a6f1",
+  "id": "7c6d5e4f-3e2d-1c0b-9a8b-e2d3c4b5a6f1",
+  "name": "Triple Room",
+  "capacity": 3,
+  "description": "Spacious triple occupancy room with attached bathroom"
+},
+{
+  "_id": "6d5e4f3e-2d1c-0b9a-8b7c-d3c4b5a6f1e2",
+  "id": "6d5e4f3e-2d1c-0b9a-8b7c-d3c4b5a6f1e2",
+  "name": "Quad Room",
+  "capacity": 4,
+  "description": "Large quad occupancy room with two bathrooms"
+},
+{
+  "_id": "5e4f3e2d-1c0b-9a8b-7c6d-c4b5a6f1e2d3",
+  "id": "5e4f3e2d-1c0b-9a8b-7c6d-c4b5a6f1e2d3",
+  "name": "Studio",
+  "capacity": 1,
+  "description": "Premium single occupancy room with kitchenette and study area"
+},
+{
+  "_id": "4f3e2d1c-0b9a-8b7c-6d5e-b5a6f1e2d3c4",
+  "id": "4f3e2d1c-0b9a-8b7c-6d5e-b5a6f1e2d3c4",
+  "name": "Suite",
+  "capacity": 2,
+  "description": "Premium double occupancy suite with separate bedroom and living area"
+},
+{
+  "_id": "3e2d1c0b-9a8b-7c6d-5e4f-a6f1e2d3c4b5",
+  "id": "3e2d1c0b-9a8b-7c6d-5e4f-a6f1e2d3c4b5",
+  "name": "Accessible Room",
+  "capacity": 1,
+  "description": "ADA compliant room with special accommodations for differently-abled residents"
+}]

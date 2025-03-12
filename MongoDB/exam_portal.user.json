@@ -1,0 +1,145 @@
+[{
+  "_id": "bef7671d-19f7-492e-8d1b-a7a188602c26-93",
+  "id": "bef7671d-19f7-492e-8d1b-a7a188602c26-93",
+  "g_created_by_id": "admin@rasp.com",
+  "g_created_by_name": "Aung",
+  "g_creation_time": {
+    "$numberLong": "1741164430160"
+  },
+  "g_soft_delete": "N",
+  "name": "IMF_2024_001",
+  "batch_id": "555d464e-f36a-4336-8cf1-71850582a2e9-46",
+  "program_id": "f3b17ce9-28fa-44ea-9d84-1fd54bd5e4c2-24",
+  "branch_id": "ac21c433-5395-4d83-8eef-059094225834-32",
+  "batch_name": "2024",
+  "email": "IMF_2024_001@iiitb.ac.in",
+  "roll_number": "IMF_2024_001",
+  "card_number": "",
+  "role": "Student",
+  "joining_date": "2025-03-05",
+  "mobile_number": "8111333999",
+  "expiry_date": "2025-03-05",
+  "image_url": "",
+  "father_name": "IMF_2024_001 Father",
+  "status": "ACTIVE",
+  "g_modified_by_id": "Aung",
+  "g_modify_time": {
+    "$numberLong": "1741170063338"
+  },
+  "specialization": "f7573c6e-8145-4682-baaf-52f2e4b85528-66"
+},
+{
+  "_id": "bf2ad9ac-ec37-48f8-831b-40805ce2afe1-1",
+  "id": "bf2ad9ac-ec37-48f8-831b-40805ce2afe1-1",
+  "g_created_by_id": "admin@rasp.com",
+  "g_created_by_name": "Aung",
+  "g_creation_time": {
+    "$numberLong": "1741164471954"
+  },
+  "g_soft_delete": "N",
+  "name": "IMF_2025_001",
+  "batch_id": "12033d68-b9b5-4a78-bf00-cf2fda4b0701-11",
+  "program_id": "157b0974-fc71-46e3-9353-3b5211cf1165-29",
+  "branch_id": "c2d770d1-025e-43c6-b9f8-748e1e531e2b-42",
+  "batch_name": "2025",
+  "email": "IMF_2025_001@iiitb.ac.in",
+  "roll_number": "IMF_2025_001",
+  "card_number": "",
+  "role": "Student",
+  "joining_date": "2025-03-05",
+  "mobile_number": "8111333777",
+  "expiry_date": "2025-03-05",
+  "image_url": "",
+  "father_name": "IMF_2025_001 Father",
+  "status": "ACTIVE",
+  "g_modified_by_id": "Aung",
+  "g_modify_time": {
+    "$numberLong": "1741165339113"
+  },
+  "specialization": "d10a6e82-482b-4a4f-b7c7-5debe44f09a3-36"
+},
+{
+  "_id": "979eb3e5-7257-42fc-85c1-3caf7972d8ef-87",
+  "id": "979eb3e5-7257-42fc-85c1-3caf7972d8ef-87",
+  "g_created_by_id": "admin@rasp.com",
+  "g_created_by_name": "Aung",
+  "g_creation_time": {
+    "$numberLong": "1741165492340"
+  },
+  "g_soft_delete": "N",
+  "name": "IMF_2024_002",
+  "batch_id": "555d464e-f36a-4336-8cf1-71850582a2e9-46",
+  "program_id": "157b0974-fc71-46e3-9353-3b5211cf1165-29",
+  "branch_id": "c2d770d1-025e-43c6-b9f8-748e1e531e2b-42",
+  "batch_name": "2024",
+  "email": "IMF_2024_002@iiitb.ac.in",
+  "roll_number": "IMF_2024_002",
+  "card_number": "",
+  "role": "Student",
+  "joining_date": "2025-03-05",
+  "mobile_number": "8123333888",
+  "expiry_date": "2025-03-05",
+  "image_url": "",
+  "father_name": "IMF_2024_002 Father",
+  "status": "ACTIVE"
+},
+{
+  "_id": "d4fcc323-1faf-4f78-a67b-3dbfa3a4ab44-92",
+  "id": "d4fcc323-1faf-4f78-a67b-3dbfa3a4ab44-92",
+  "g_created_by_id": "admin@rasp.com",
+  "g_created_by_name": "Aung",
+  "g_creation_time": {
+    "$numberLong": "1741165526259"
+  },
+  "g_soft_delete": "N",
+  "name": "IMF_2025_002",
+  "batch_id": "12033d68-b9b5-4a78-bf00-cf2fda4b0701-11",
+  "program_id": "f3b17ce9-28fa-44ea-9d84-1fd54bd5e4c2-24",
+  "branch_id": "ac21c433-5395-4d83-8eef-059094225834-32",
+  "batch_name": "2025",
+  "email": "IMF_2025_002@iiitb.ac.in",
+  "roll_number": "IMF_2025_002",
+  "card_number": "",
+  "role": "Student",
+  "joining_date": "2025-03-05",
+  "mobile_number": "8111333999",
+  "expiry_date": "2025-03-05",
+  "image_url": "",
+  "father_name": "IMF_2025_002 Father",
+  "status": "ACTIVE",
+  "g_modified_by_id": "Aung",
+  "g_modify_time": {
+    "$numberLong": "1741169777894"
+  },
+  "specialization": "f7573c6e-8145-4682-baaf-52f2e4b85528-66"
+},
+{
+  "_id": "fe36252e-94da-4f19-9176-a1f8fcb5fc9d-96",
+  "id": "fe36252e-94da-4f19-9176-a1f8fcb5fc9d-96",
+  "g_created_by_id": "admin@rasp.com",
+  "g_created_by_name": "Aung",
+  "g_creation_time": {
+    "$numberLong": "1741165570372"
+  },
+  "g_soft_delete": "N",
+  "name": "IMF_2024_003",
+  "batch_id": "555d464e-f36a-4336-8cf1-71850582a2e9-46",
+  "program_id": "f75defa0-9486-475d-b49d-7c8431c01cea-15",
+  "branch_id": "b46db12a-137a-48b8-8bcf-70139a698d88-41",
+  "batch_name": "2024",
+  "email": "IMF_2024_003@iiitb.ac.in",
+  "roll_number": "IMF_2024_003",
+  "card_number": "",
+  "role": "Student",
+  "joining_date": "2025-03-05",
+  "mobile_number": "8111333456",
+  "expiry_date": "2025-03-05",
+  "image_url": "",
+  "father_name": "IMF_2024_003 Father",
+  "status": "ACTIVE",
+  "g_modified_by_id": "Aung",
+  "g_modify_time": {
+    "$numberLong": "1741170063411"
+  },
+  "specialization": "f7573c6e-8145-4682-baaf-52f2e4b85528-66"
+}]

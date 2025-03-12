@@ -1,0 +1,32 @@
+{
+  "room_type" : {
+    "cluster" : "hostel_management_system",
+    "ui" : false,
+    "api" : true,
+    "display_name" : "Room Type",
+    "menu_content" : "setup",
+    "fields" : {
+      "id": {
+        "index": true,
+        "name": "id",
+        "required": true,
+        "type": "String"
+      },
+      "name": {
+        "name": "name",
+        "type": "String",
+        "required": true
+      },
+      "capacity": {
+        "name": "capacity",
+        "type": "Integer",
+        "required":true
+      },
+      "description": {
+        "name": "description",
+        "type": "String",
+        "required": false
+      }
+    }
+  }
+}
